@@ -21,6 +21,7 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 - #### Configurability requirements
 - #### Requirements related to existing users data
 - #### Requirements related to existing features (ex: Add a button to existing modules...)
+- #### Feature Flag needed ? (shall we allow activation of the feaure on demand ?)
 - #### Other NFR (ex: Use of VueX, Vue, Vuetify)
 ## 3. Software Architecture
 - #### Security
