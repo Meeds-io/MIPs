@@ -14,6 +14,7 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 
 ## 1. Functional requirements
 - Bullet points for User Journey Maps with some screenshots of the design to be implemented
+
 ## 2. Non Functional Requirements
 - #### Expected volume & Performance requirements
 - #### Security requirements (Authentication, Authorizations, Audit track / traceability, data retention…)
@@ -23,6 +24,11 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 - #### Requirements related to existing features (ex: Add a button to existing modules...)
 - #### Feature Flag needed ? (shall we allow activation of the feaure on demand ?)
 - #### Other NFR (ex: Use of VueX, Vue, Vuetify)
+
+## 3. Impacts
+- #### Documentation to update?
+- #### Training level / Change management needs
+
 ## 3. Software Architecture
 - #### Security
 - #### Access (GUI, API…)
@@ -38,6 +44,7 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 - #### Support for multitenancy
 - #### Integrations
 - #### Migration strategy
+
 ## 4. Annexes
    - Reasoning that explain the technical choices
    - Impacts (ex: impact on public REST/Java API)
