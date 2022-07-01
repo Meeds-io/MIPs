@@ -29,7 +29,7 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 - #### Documentation to update?
 - #### Training level / Change management needs
 
-## 3. Software Architecture
+## 4. Software Architecture
 - #### Security
 - #### Access (GUI, API…)
    - Rest API design (Entry points, domain objects)
@@ -45,7 +45,7 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 - #### Integrations
 - #### Migration strategy
 
-## 4. Annexes
+## 5. Annexes
    - Reasoning that explain the technical choices
    - Impacts (ex: impact on public REST/Java API)
    - References (links...)
