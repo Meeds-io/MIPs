@@ -6,7 +6,6 @@ labels: ''
 assignees: ''
 
 ---
-
 ## Rationale
 
 Details of the GAP ( problem(s) to address ) expressed by few words using some screenshots.
@@ -19,10 +18,10 @@ Details of the GAP ( problem(s) to address ) expressed by few words using some s
 - #### Expected volume & Performance requirements
 - #### Security requirements (Authentication, Authorizations, Audit track / traceability, data retention…)
 - #### Extensibility requirements (Identified extension points, plugables implementations...)
-- #### Configurability requirements
+- #### Configurability requirements (properties introduced, default settings, jobs, etc...)
 - #### Requirements related to existing users data
 - #### Requirements related to existing features (ex: Add a button to existing modules...)
-- #### Feature Flag needed ? (shall we allow activation of the feaure on demand ?)
+- #### Feature Flag (property name, default status, target audience, functional behaviour)
 - #### Other NFR (ex: Use of VueX, Vue, Vuetify)
 
 ## 3. Impacts
