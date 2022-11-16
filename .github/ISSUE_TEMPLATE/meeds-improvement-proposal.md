@@ -8,43 +8,100 @@ assignees: ''
 ---
 ## Rationale
 
-Details of the GAP ( problem(s) to address ) expressed by few words using some screenshots.
+<!--
+Details of the GAP (problems to address) expressed by few words using some screenshots.
 **Note**: avoid describing the solution here.
+-->
 
-## 1. Functional requirements
-- Bullet points for User Journey Maps with some screenshots of the design to be implemented
+## 1. Functional Requirements
+<!-- 
+Bullet points for User Journey Maps with some screenshots of the design to be implemented
+-->
 
-## 2. Non Functional Requirements
-- #### Expected volume & Performance requirements
-- #### Security requirements (Authentication, Authorizations, Audit track / traceability, data retention…)
-- #### Extensibility requirements (Identified extension points, plugables implementations...)
-- #### Configurability requirements (properties introduced, default settings, jobs, etc...)
-- #### Requirements related to existing users data
-- #### Requirements related to existing features (ex: Add a button to existing modules...)
-- #### Feature Flag (property name, default status, target audience, functional behaviour)
-- #### Other NFR (ex: Use of VueX, Vue, Vuetify)
+## 2. Technical Requirements
+
+### Expected Volume & Performance
+
+### Security 
+<!-- 
+Authentication, Authorizations, Audit track / traceability, data retention…
+-->
+
+### Extensibility 
+<!--
+Identified extension points, plugables implementations...
+-->
+
+### Configurability 
+<!-- 
+Properties introduced, default settings, jobs, etc...
+-->
+
+### User Data
+<!-- 
+Requirements related to existing users data -->
+
+### Existing Features
+<!--
+Requirements related to existing features 
+ex: Add a button to existing modules...
+-->
+
+### Feature Flags
+
+<!--
+Feature flags inserted in code to allow controlling availability of the feature to end users
+-->
+
+| Property Name  | Default Value | Target Audience | Functional Behaviour |
+| ------------- | ------------- | ------------- | ------------- |
+|  |   |   |   |
+
+
+
+### Other Non Functional Requirements
+<!--
+Non functional requirements 
+Ex: Use of VueX, Vue, Vuetify
+-->
 
 ## 3. Impacts
-- #### Documentation to update?
-- #### Training level / Change management needs
 
+### Documentation 
+
+<!-- 
+Docs to update
+-->
+
+### Training 
+<!--
+training level required, change management needs
+-->
 ## 4. Software Architecture
-- #### Security
-- #### Access (GUI, API…)
-   - Rest API design (Entry points, domain objects)
-   - Portlet Vue & Vuetify, simple portlet, extension WAR ...
-- #### Services & processing
+
+### Security
+
+### Access 
+   - GUI <!-- Portlet Vue & Vuetify, simple portlet, extension WAR ... -->
+   - API <!-- REST API design : Entry points, domain objects -->
+
+
+### Services & processing
    - Ex: Scheduled Jobs
-- #### Data and persistence
+
+### Data and persistence
    - Macro data model
-   - Persistence layer (RDBMS, elasticsearch...)
+   - Persistence layer <!-- RDBMS, elasticsearch...-->
    - Use of caches
-- #### Support for clustering
-- #### Support for multitenancy
-- #### Integrations
-- #### Migration strategy
+### Clustering
+
+### Multitenancy
+
+### Integrations
+
+### Migration strategy
 
 ## 5. Annexes
    - Reasoning that explain the technical choices
-   - Impacts (ex: impact on public REST/Java API)
-   - References (links...)
+   - Impacts <!-- ex: impact on public REST/Java API -->
+   - References <!-- links... -->
