@@ -37,9 +37,13 @@ Identified extension points, plugables implementations...
 Properties introduced, default settings, jobs, etc...
 -->
 
-### User Data
+
+### Upgradability
 <!-- 
-Requirements related to existing users data -->
+Requirements related to upgrading existing systems, if any. 
+Specify how if the system self upgrades, or requires some procedure. 
+Should cover data migration, API impacts and properties involved 
+-->
 
 ### Existing Features
 <!--
