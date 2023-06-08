@@ -1,6 +1,6 @@
 ---
 name: Meeds Improvement Proposal
-about: Design a new feature using functional and technical specifications templates
+about: Design a new feature using functional and technical requirements templates
 title: 'feat: FEATURE TITLE'
 labels: ''
 assignees: ''
@@ -9,16 +9,45 @@ assignees: ''
 ## Rationale
 
 <!--
-Details of the GAP (problems to address) expressed by few words using some screenshots.
-**Note**: avoid describing the solution here.
+Details of the gap (problems to address) expressed by few words or using some screenshots.
+No need to go into lenghty details. Bullet points are fine.
+Not all sections should be filled. They are just meant to serve as a checklist. Only fill relevant ones and leave N/A in others.
 -->
 
 ## 1. Functional Requirements
+<!-- Fill only the applicable sections -->
+
+### Top User Stories
+<!-- Describe only main stories in the requirements :  As <Persona> When <Context> I need to <Pain> -->
+
+### Impacts
 <!-- 
-Bullet points for User Journey Maps with some screenshots of the design to be implemented
+Impacts on existing and transversal features
+-->
+#### Gamification
+<!-- 
+Does this add new event to trigger ? new rules in a program ?
+-->
+
+#### Notifications
+<!-- 
+Does it come with notificaitons ? Modifies some other notifications ?
+-->
+
+#### Analytics
+<!-- 
+Does it add/updates some data collection points for analytics? Does it aimpact any built-in reports ?
+-->
+
+#### Unified Search
+<!-- 
+Does it add a new element to search via unified search ? What are the facets to index ?
 -->
 
 ## 2. Technical Requirements
+<!--
+Fill only applicable sections. 
+-->
 
 ### Expected Volume & Performance
 
