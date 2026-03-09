@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 
 ---
+
 ## Rationale
 
 <!--
@@ -24,6 +25,18 @@ Not all sections should be filled. They are just meant to serve as a checklist. 
 <!-- 
 Impacts on existing and transversal features
 -->
+
+#### Customer delivery
+**Functionnal**
+<!--
+Identify functionnal impact on existing data & related features and the expected behavior on them during the delivery. 
+-->
+
+**Change management**
+<!--
+Identify change management impact and recommandation for customers during delivery. 
+-->
+
 #### Gamification
 <!-- 
 Does this add new event to trigger ? new rules in a program ?
@@ -69,6 +82,7 @@ Properties introduced, default settings, jobs, etc...
 
 ### Upgradability
 <!-- 
+Check customer delivery impacts 
 Requirements related to upgrading existing systems, if any. 
 Specify how if the system self upgrades, or requires some procedure. 
 Should cover data migration, API impacts and properties involved 
